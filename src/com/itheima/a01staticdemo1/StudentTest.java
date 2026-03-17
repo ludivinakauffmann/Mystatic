@@ -19,6 +19,7 @@ public class StudentTest {
         s2.study();
         s2.show();
         System.out.println("========master test==========");
+        System.out.println("=========hot-fix commit2==========");
     }
 
 }
