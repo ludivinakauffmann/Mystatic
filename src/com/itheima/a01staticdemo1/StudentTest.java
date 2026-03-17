@@ -18,6 +18,7 @@ public class StudentTest {
         s2.setGender("女");
         s2.study();
         s2.show();
+        System.out.println("=========hot-fix commit2==========");
     }
 
 }
